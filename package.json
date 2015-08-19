@@ -1,0 +1,27 @@
+{
+  "name": "method-call",
+  "version": "1.0.0",
+  "description": "An ES6 Implementation of _ method calls in Scala",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allouis/method-call.git"
+  },
+  "keywords": [
+    "method",
+    "call",
+    "method-call",
+    "_",
+    "scala",
+    "wildcard"
+  ],
+  "author": "Fabien O'Carroll <fabien@allou.is>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/allouis/method-call/issues"
+  },
+  "homepage": "https://github.com/allouis/method-call#readme"
+}
